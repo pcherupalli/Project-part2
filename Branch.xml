@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Branch>
+  <Branch>
+    <Branch_id>1</Branch_id>
+    <Location>Los Angeles</Location>
+    <Phone_number>9000654574</Phone_number>
+  </Branch>
+  <Branch>
+    <Branch_id>2</Branch_id>
+    <Location>New York</Location>
+    <Phone_number>9000654575</Phone_number>
+  </Branch>
+  <Branch>
+    <Branch_id>3</Branch_id>
+    <Location>Miami</Location>
+    <Phone_number>9000654576</Phone_number>
+  </Branch>
+</Branch>

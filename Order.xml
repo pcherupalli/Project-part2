@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Order>
+  <order>
+    <Order_id>1</Order_id>
+    <Time>20</Time>
+    <Payment>567</Payment>
+  </order>
+  <order>
+    <Order_id>2</Order_id>
+    <Time>30</Time>
+    <Payment>400</Payment>
+  </order>
+  <order>
+    <Order_id>3</Order_id>
+    <Time>15</Time>
+    <Payment>380</Payment>
+  </order>
+</Order>

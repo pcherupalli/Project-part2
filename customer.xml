@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Customer>
+  <customer>
+    <Customer_id>1</Customer_id>
+    <Phone_number>988990088</Phone_number>
+    <password>asdfg</password>
+    <mail_id>sophie@gmail.com</mail_id>
+  </customer>
+  <customer>
+    <Customer_id>2</Customer_id>
+    <Phone_number>988990077</Phone_number>
+    <password>zxcvb</password>
+    <mail_id>siri@gmail.com</mail_id>
+  </customer>
+  <customer>
+    <Customer_id>3</Customer_id>
+    <Phone_number>988990066</Phone_number>
+    <password>qwert</password>
+    <mail_id>ram@gmail.com</mail_id>
+  </customer>
+</Customer>

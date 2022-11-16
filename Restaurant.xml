@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Restaurant>
+  <restaurant>
+    <Restaurant_id>1</Restaurant_id>
+    <Name>Kritunga</Name>
+    <Location>USA</Location>
+  </restaurant>
+  <restaurant>
+    <Restaurant_id>2</Restaurant_id>
+    <Name>Kritunga</Name>
+    <Location>India</Location>
+  </restaurant>
+  <restaurant>
+    <Restaurant_id>3</Restaurant_id>
+    <Name>Kritunga</Name>
+    <Location>Australia</Location>
+  </restaurant>
+</Restaurant>

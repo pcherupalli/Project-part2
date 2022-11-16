@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Owner>
+  <owner>
+    <Id>1</Id>
+    <Name>John</Name>
+    <phone_number>7777777771</phone_number>
+  </owner>
+  <owner>
+    <Id>2</Id>
+    <Name>Jack</Name>
+    <phone_number>7777777772</phone_number>
+  </owner>
+  <owner>
+    <Id>3</Id>
+    <Name>James</Name>
+    <phone_number>7777777773</phone_number>
+  </owner>
+</Owner>
